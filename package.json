@@ -1,0 +1,26 @@
+{
+  "name": "bccf",
+  "version": "0.0.1",
+  "description": "Brier Creek CrossFit backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xylomo/bccf.git"
+  },
+  "author": "Andrew Butler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xylomo/bccf/issues"
+  },
+  "homepage": "https://github.com/xylomo/bccf#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "moment": "^2.19.1",
+    "request": "^2.83.0"
+  }
+}
